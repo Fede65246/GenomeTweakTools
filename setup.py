@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/Fede65246/GenomeTweakTools',
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['STRING MANIPULATION', 'GENOME EDITING'],
-  install_requires=['re'],
+  install_requires=[],
   classifiers=[
     'Development Status :: 4 - Beta',
     'Intended Audience :: Developers',   
