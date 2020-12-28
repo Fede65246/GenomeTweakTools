@@ -8,7 +8,7 @@ setup(
   author = 'Federicvo Vidoli',             
   author_email = 'federico.vidoli@liceovirgilioroma.com',
   url = 'https://github.com/Fede65246/GenomeTweakTools',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Fede65246/GenomeTweakTools/archive/v0.1.tar.gz',    # I explain this later on
   keywords = ['STRING MANIPULATION', 'GENOME EDITING'],
   install_requires=[],
   classifiers=[
